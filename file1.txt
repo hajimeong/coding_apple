@@ -1,4 +1,4 @@
-file1
+serve 브랜치
 
 <Github에서 만든 원격 저장소에 파일 올리기>
 - git push -u 원격저장소주소 main
